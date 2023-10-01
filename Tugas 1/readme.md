@@ -41,11 +41,10 @@ Kelas	: Riset Informatika C <br>
     <li>Teori Convolutional Neural Networks (CNN) </li>
       Studi literatur mengenai dasar-dasar CNN, termasuk konsep lapisan konvolusi, fungsi aktivasi, dan teknik-teknik pelatihan, untuk memahami prinsip-prinsip di balik algoritma yang akan digunakan dalam penelitian ini.
     <li>Teori Pengolahan Citra Digital </li>
-      Pengetahuan tentang teknik-teknik pengolahan citra digital, seperti normalisasi intensitas, augmentasi data, dan segmentasi, akan membantu mempersiapkan data gambar mulut sebelum dimasukkan ke dalam model CNN.
+      Pengetahuan tentang teknik-teknik pengolahan citra digital, seperti normalisasi intensitas, augmentasi data, dan segmentasi, akan membantu mempersiapkan    data gambar mulut sebelum dimasukkan ke dalam model CNN.
+    <li>Teori Deteksi Kanker Mulut </li>
+      Studi literatur mengenai teknik-teknik deteksi kanker mulut secara visual, baik oleh manusia maupun oleh sistem komputer, untuk memahami tantangan-tantangan yang dihadapi dan bagaimana model CNN dapat mengatasi masalah-masalah tersebut.
+    <li>Teori Evaluasi Model </li>
+      Memahami berbagai metrik evaluasi model seperti akurasi, sensitivitas, spesifisitas, presisi, dan F1-score untuk mengukur kinerja model CNN dalam deteksi kanker mulut. Studi literatur ini akan membantu dalam mengevaluasi hasil eksperimen.
   </ul>
 </ol>
-
-c.	Teori Deteksi Kanker Mulut
-Studi literatur mengenai teknik-teknik deteksi kanker mulut secara visual, baik oleh manusia maupun oleh sistem komputer, untuk memahami tantangan-tantangan yang dihadapi dan bagaimana model CNN dapat mengatasi masalah-masalah tersebut.
-d.	Teori Evaluasi Model
-Memahami berbagai metrik evaluasi model seperti akurasi, sensitivitas, spesifisitas, presisi, dan F1-score untuk mengukur kinerja model CNN dalam deteksi kanker mulut. Studi literatur ini akan membantu dalam mengevaluasi hasil eksperimen.
