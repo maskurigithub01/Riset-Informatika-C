@@ -1,4 +1,5 @@
-<h1>Contoh Paper Metode / Metodologi Penelitian</h1><br>
+<h1>TUGAS 2 RISET INFORMATIKA</h1>
+<h2>Contoh Paper Metode / Metodologi Penelitian</h2><br>
 
 <ol>
   <li>
