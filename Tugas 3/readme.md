@@ -13,7 +13,7 @@
         <li>Link : https://www.sciencedirect.com/science/article/abs/pii/S1350449522003103</li>
       </ul>
   </ol>
-</p><br>
+</p> <br>
 
 <h1>Metode Penelitian Kuantitatif Pendeteksian Kerusakan Cat pada Bak Dump Truck Menggunakan Convolutional Neural Network (CNN)</h1>
 
