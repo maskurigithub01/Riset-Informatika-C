@@ -5,7 +5,7 @@ Kelas	: Riset Informatika C <br>
 <h1>Deteksi Dini Kanker Mulut Menggunakan Convolutional Neural Networks (CNN) dari Gambar Normal dan Squamous Cell Carcinoma (SCC) (Topik 1) </h1><br>
 
 <div align="justify">
-<ol>
+<ol> 
   <li>Identifikasi Persoalan Praktis</li>
     Persoalan praktis yang perlu diselesaikan melalui penelitian ini adalah meningkatkan kemampuan deteksi dini kanker mulut, yang dapat membantu dalam diagnosis awal, perencanaan perawatan yang tepat, dan meningkatkan peluang kesembuhan pasien. Dalam praktek klinis, deteksi kanker mulut melibatkan analisis visual lesi mulut, dan proses ini dapat sangat subjektif dan rentan terhadap kesalahan manusia. Oleh karena itu, diperlukan pendekatan otomatis dan objektif menggunakan teknologi seperti Convolutional Neural Networks (CNN) untuk mendeteksi dan membedakan gambar normal dan lesi Squamous Cell Carcinoma (SCC) pada mulut.
   <li>Research Questions</li>
